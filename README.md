@@ -127,6 +127,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YT37&show_icons=true&theme=graywhite&hide_border=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YT37&layout=compact&theme=graywhite&hide_border=true" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YT37&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YT37&layout=compact&theme=tokyonight&hide_border=true" width="36.5%" alt="Top Languages" />
 </div>
