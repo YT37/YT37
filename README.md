@@ -77,7 +77,7 @@
       <h3 align="center">💊 PillBuddy (IoT + Mobile)</h3>
       <p align="center"><i>Automated Medication Dispenser</i></p>
       <p><b>🏆 Best Hardware Hack (SunHacks 2024)</b><br> 
-      A precision-engineered IoT device using <b>Arduino & ESP32</b> to dispense dosage. [cite_start]Controlled via a cross-platform <b>Flutter app</b> over RESTful APIs[cite: 49, 50, 51].</p>
+      A precision-engineered IoT device using <b>Arduino & ESP32</b> to dispense dosage. Controlled via a cross-platform <b>Flutter app</b> over RESTful APIs.</p>
       <p align="center">
         <a href="https://github.com/YT37"><img src="https://img.shields.io/badge/View_Source-black?style=flat-square&logo=github" /></a>
       </p>
@@ -85,7 +85,7 @@
     <td width="50%">
       <h3 align="center">👗 OutDrobe (AI + Vision)</h3>
       <p align="center"><i>Smart Wardrobe Assistant</i></p>
-      <p>An AI stylist that uses <b>Computer Vision (Google Vision & BLIP)</b> to categorize clothing from camera input. [cite_start]Features <b>voice control</b> via Fish Audio for hands-free interaction[cite: 44, 45].</p>
+      <p>An AI stylist that uses <b>Computer Vision (Google Vision & BLIP)</b> to categorize clothing from camera input. Features <b>voice control</b> via Fish Audio for hands-free interaction.</p>
       <p align="center">
         <a href="https://github.com/YT37"><img src="https://img.shields.io/badge/View_Source-black?style=flat-square&logo=github" /></a>
       </p>
@@ -95,7 +95,7 @@
     <td width="50%">
       <h3 align="center">💧 WPD (Embedded ML)</h3>
       <p align="center"><i>Industrial Water Purity Detector</i></p>
-      <p>An industrial system using <b>Raspberry Pi</b> and chemical sensors. [cite_start]Implements <b>TensorFlow</b> models on-device to classify water quality for reuse in agriculture vs. drinking[cite: 71, 72, 73].</p>
+      <p>An industrial system using <b>Raspberry Pi</b> and chemical sensors. Implements <b>TensorFlow</b> models on-device to classify water quality for reuse in agriculture vs. drinking.</p>
       <p align="center">
         <a href="https://github.com/Solvrz/WPD"><img src="https://img.shields.io/badge/View_Source-black?style=flat-square&logo=github" /></a>
       </p>
@@ -103,7 +103,7 @@
     <td width="50%">
       <h3 align="center">📈 Aler (Full-Stack)</h3>
       <p align="center"><i>Fintech Platform</i></p>
-      <p>Built a comprehensive accounting suite using <b>Flutter & Django</b>. [cite_start]Replaces physical ledgers for SMBs with digital credit tracking and invoicing[cite: 28, 52, 53].</p>
+      <p>Built a comprehensive accounting suite using <b>Flutter & Django</b>. Replaces physical ledgers for SMBs with digital credit tracking and invoicing.</p>
       <p align="center">
         <a href="https://play.google.com/store/apps/details?id=com.solvrz.aler"><img src="https://img.shields.io/badge/Google_Play-Store-green?style=flat-square&logo=googleplay" /></a>
       </p>
