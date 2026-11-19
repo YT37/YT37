@@ -1,9 +1,8 @@
 <div align="center">
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&pause=100&color=00ffaa&center=true&vCenter=true&width=435&lines=Hi,+I'm+Yug+Thapar;CS+Student+and+Entrepreneur;Fusing+Silicon+with+Neural+Networks;Building+Scalable+Full-Stack+Interfaces" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&pause=100&color=00ffaa&center=true&vCenter=true&width=480&lines=Hi,+I'm+Yug+Thapar;Computer+Systems+Engineering+@+ASU;Embedded+Systems+and+AI;Startup+Co-Founder" alt="Typing SVG" />
 
-  <h3 align="center">AI & Embedded Systems Engineer | Entrepreneur | Full-Stack Developer</h3>
-  <p><i>"Architecting Intelligence across Hardware, Mobile & Web."</i></p>
+  <h3 align="center">Embedded Systems and AI | Computer Systems Engineering @ ASU | Entrepreneur</h3>
 
 <a href="https://yugthapar.com">
     <img src="https://img.shields.io/badge/🌐_Portfolio-101010?style=for-the-badge&logoColor=white" alt="Portfolio" />
@@ -28,41 +27,45 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🔌 Embedded Systems</h3>
-      <p><i>Designing the brain and nervous system of machines.</i></p>
+      <p><i>Firmware, boards and the hardware underneath.</i></p>
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-      <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
       <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
       <br><br>
-      <img src="https://img.shields.io/badge/KiCad_(PCB)-3178C6?style=for-the-badge&logo=kicad&logoColor=white" />
-      <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Proteus_Sim-darkgreen?style=for-the-badge&logo=proteus&logoColor=white" />
+      <img src="https://img.shields.io/badge/Raspberry_Pi_Pico-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
       <br><br>
-     <b>Capabilities:</b> PCB Layout & Fabrication, Circuit Design, Soldering, IoT Protocols (MQTT/HTTP).
+      <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" />
+      <img src="https://img.shields.io/badge/Altium-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white" />
+      <img src="https://img.shields.io/badge/Siemens_Xpedition-009999?style=for-the-badge&logo=siemens&logoColor=white" />
+      <br><br>
+     <b>Capabilities:</b> PCB Layout & Fabrication, Circuit Design, Firmware, PID Control, Soldering, IoT Protocols (MQTT/HTTP).
     </td>
     <td width="50%" valign="top">
       <h3>🧠 Artificial Intelligence</h3>
-      <p><i>Teaching machines to perceive and reason.</i></p>
+      <p><i>Vision, models and agents.</i></p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
       <br><br>
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-      <img src="https://img.shields.io/badge/Google_Cloud_Vision-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
       <img src="https://img.shields.io/badge/Pandas_&_NumPy-150458?style=for-the-badge&logo=pandas&logoColor=white" />
       <br><br>
-      <b>Capabilities:</b> Computer Vision, Predictive Modeling, Edge AI Inference, Data Processing.
+      <b>Capabilities:</b> Computer Vision, Image Matching (DINOv2, LightGlue), AI Agents, Edge AI Inference, Data Processing.
     </td>
   </tr>
   <tr>
-    <td colspan="4" valign="top">
-      <h3>📱 Full-Stack Interfaces (Web & Mobile)</h3>
-      <p><i>Building responsive & interactive interfaces.</i></p>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/React_&_Next.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+    <td colspan="2" valign="top">
+      <h3>📱 Full-Stack (Web & Mobile)</h3>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -73,39 +76,39 @@
 
 <table width="100%">
   <tr>
-    <td width="50%">
-      <h3 align="center">💊 PillBuddy (IoT + Mobile)</h3>
-      <p align="center"><i>Automated Medication Dispenser</i></p>
-      <p><b>🏆 Best Hardware Hack (SunHacks 2024)</b><br> 
-      A precision-engineered IoT device using <b>Arduino & ESP32</b> to dispense dosage. Controlled via a cross-platform <b>Flutter app</b> over RESTful APIs.</p>
+    <td width="50%" valign="top">
+      <h3 align="center">🏢 Dome (AI + Vision)</h3>
+      <p align="center"><i>HackPrinceton Fall '26</i></p>
+      <p>An agentic investigation tool that traces trafficking ad photos to the building they were taken in. I built the vision pipeline: <b>DINOv2 + LightGlue</b> photo-to-room matching across 125 <b>Matterport</b> scans, and a geolocation fix that snaps scans onto <b>Vexcel</b> building footprints with floor data from <b>CoStar</b>.</p>
       <p align="center">
-        <a href="https://github.com/YT37"><img src="https://img.shields.io/badge/View_Source-black?style=flat-square&logo=github" /></a>
+        <a href="https://dome.surf"><img src="https://img.shields.io/badge/Website-black?style=flat-square&logo=googlechrome&logoColor=white" /></a>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">👗 OutDrobe (AI + Vision)</h3>
-      <p align="center"><i>Smart Wardrobe Assistant</i></p>
-      <p>An AI stylist that uses <b>Computer Vision (Google Vision & BLIP)</b> to categorize clothing from camera input. Features <b>voice control</b> via Fish Audio for hands-free interaction.</p>
+    <td width="50%" valign="top">
+      <h3 align="center">💊 PillBuddy (IoT + Mobile)</h3>
+      <p align="center"><i>Automated Medication Dispenser</i></p>
+      <p><b>🏆 Best Hardware Hack (SunHacks 2024)</b><br>
+      A precision dispensing mechanism on <b>Arduino & ESP32</b>, controlled from a cross-platform <b>Flutter app</b> over REST APIs, with missed-dose alerts for caregivers.</p>
       <p align="center">
-        <a href="https://github.com/YT37"><img src="https://img.shields.io/badge/View_Source-black?style=flat-square&logo=github" /></a>
+        <a href="https://github.com/YT37/PillBuddy"><img src="https://img.shields.io/badge/View_Source-black?style=flat-square&logo=github" /></a>
       </p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">💧 WPD (Embedded ML)</h3>
-      <p align="center"><i>Industrial Water Purity Detector</i></p>
-      <p>An industrial system using <b>Raspberry Pi</b> and chemical sensors. Implements <b>TensorFlow</b> models on-device to classify water quality for reuse in agriculture vs. drinking.</p>
+    <td width="50%" valign="top">
+      <h3 align="center">🏠 ROTO (PCB + Firmware)</h3>
+      <p align="center"><i>Local-First Home Automation</i></p>
+      <p>A retrofittable home automation controller on a custom <b>KiCad</b> PCB running <b>ESPHome</b>. Fits behind existing switchboards, works fully on the local network and costs under $70.</p>
       <p align="center">
-        <a href="https://github.com/Solvrz/WPD"><img src="https://img.shields.io/badge/View_Source-black?style=flat-square&logo=github" /></a>
+        <a href="https://github.com/YT37/ROTO"><img src="https://img.shields.io/badge/View_Source-black?style=flat-square&logo=github" /></a>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">📈 Aler (Full-Stack)</h3>
-      <p align="center"><i>Fintech Platform</i></p>
-      <p>Built a comprehensive accounting suite using <b>Flutter & Django</b>. Replaces physical ledgers for SMBs with digital credit tracking and invoicing.</p>
+    <td width="50%" valign="top">
+      <h3 align="center">👗 OutDrobe (AI + Vision)</h3>
+      <p align="center"><i>Smart Wardrobe Assistant</i></p>
+      <p>An AI stylist that uses <b>Google Cloud Vision and BLIP</b> to categorize clothing from a photo and suggest outfits, with <b>voice control</b> via Fish Audio.</p>
       <p align="center">
-        <a href="https://play.google.com/store/apps/details?id=com.solvrz.aler"><img src="https://img.shields.io/badge/Google_Play-Store-green?style=flat-square&logo=googleplay" /></a>
+        <a href="https://github.com/orgs/Outdrobe/repositories"><img src="https://img.shields.io/badge/View_Source-black?style=flat-square&logo=github" /></a>
       </p>
     </td>
   </tr>
@@ -114,13 +117,14 @@
 <br>
 
 <details>
-  <summary><b>🔽 View More Projects </b></summary>
+  <summary><b>🔽 View More Projects</b></summary>
   <br>
   <ul>
-    <li><b>ROTO:</b> Privacy-first home automation hardware (< $70) using local ESP32 networks.</li>
+    <li><b>WPD:</b> Industrial water purity detector on Raspberry Pi with on-device TensorFlow classification.</li>
+    <li><b>Aler:</b> Accounting suite for small businesses built with Flutter & Django.</li>
+    <li><b>iVidya:</b> School ERP deployed to 500+ students and staff.</li>
     <li><b>SunDial (EU ERASMUS+):</b> Sustainable design project presented to international researchers.</li>
-    <li><b>EnCourage:</b> Assistive app translating text/speech to Braille & Sign Language.</li>
-    <li><b>iVidya:</b> ERP platform deployed in a school with 500+ students.</li>
+    <li><b>EnCourage:</b> Assistive app translating text and speech to Braille and Sign Language.</li>
   </ul>
 </details>
 
