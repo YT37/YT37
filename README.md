@@ -131,7 +131,6 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YT37&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true&hide=contribs,issues&custom_title=GitHub%20Stats" width="40%" alt="GitHub Stats" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YT37&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="40%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YT37&theme=tokyonight" width="100%" alt="Profile Details" />
+  <br>
 </div>
